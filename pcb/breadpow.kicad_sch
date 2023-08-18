@@ -1221,7 +1221,7 @@
     (pin "B9" (uuid 5f50507b-b506-4b9e-a7fa-4a4ff35b1b80))
     (pin "S1" (uuid debfceb2-3ca5-4cac-9926-4658c6d54205))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "J1") (unit 1)
         )
@@ -1254,7 +1254,7 @@
     (pin "5" (uuid 40dcb419-7a13-4e15-8b2d-05c450675f28))
     (pin "6" (uuid 33c8716f-f95f-4871-a510-5f1b7d639c68))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "SW1") (unit 1)
         )
@@ -1292,7 +1292,7 @@
     (pin "8" (uuid 3bc07446-7cf9-4e5b-914f-adc52f6eb4b8))
     (pin "9" (uuid d7176904-038e-430e-b9da-f3e923dbd5bf))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "U1") (unit 1)
         )
@@ -1317,7 +1317,7 @@
     )
     (pin "1" (uuid ce81cccb-a8b4-482b-9adf-6a1468d4a3a3))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR06") (unit 1)
         )
@@ -1342,7 +1342,7 @@
     )
     (pin "1" (uuid 1bbb725d-f9b8-49a0-8a2c-f7b02a2b55a5))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR014") (unit 1)
         )
@@ -1371,7 +1371,7 @@
     (pin "1" (uuid ec72cd69-15f7-4844-a784-9db1169f5cbb))
     (pin "2" (uuid de9bf212-176e-41be-a693-e4243b6ba8af))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "D2") (unit 1)
         )
@@ -1400,7 +1400,7 @@
     (pin "1" (uuid fe972433-d1c7-4b1b-bc37-b628824eaa39))
     (pin "2" (uuid 3b4c390e-399e-4ea8-8f2e-7c08ad665859))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R3") (unit 1)
         )
@@ -1425,7 +1425,7 @@
     )
     (pin "1" (uuid 6bcc90aa-60ed-4522-869a-a0319bacf348))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR010") (unit 1)
         )
@@ -1450,7 +1450,7 @@
     )
     (pin "1" (uuid 6c99ea00-7407-4f77-afb1-ba8ac769df3d))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR04") (unit 1)
         )
@@ -1475,7 +1475,7 @@
     )
     (pin "1" (uuid 6b8e23fa-3cf4-4800-bdfa-3de77325977b))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR015") (unit 1)
         )
@@ -1504,7 +1504,7 @@
     (pin "1" (uuid fe40c25b-ed7e-4d3c-8919-4ef63dca9764))
     (pin "2" (uuid c5b440f7-8079-4d63-ae48-f32fe44f2d1f))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R1") (unit 1)
         )
@@ -1533,7 +1533,7 @@
     (pin "1" (uuid b31f6aee-7c2f-41ec-805b-bc465eb900f2))
     (pin "2" (uuid fb492169-8281-46d5-8c9e-48b502b23538))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R7") (unit 1)
         )
@@ -1558,7 +1558,7 @@
     )
     (pin "1" (uuid 1a5d8f98-33f1-4a61-87d2-655ed1461394))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR012") (unit 1)
         )
@@ -1583,7 +1583,7 @@
     )
     (pin "1" (uuid 3c7cfb86-bf1e-4ac6-aaf1-e79efe759c33))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR09") (unit 1)
         )
@@ -1608,7 +1608,7 @@
     )
     (pin "1" (uuid d01f5501-701c-4b0b-a5fc-ba269ba60400))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR02") (unit 1)
         )
@@ -1637,7 +1637,7 @@
     (pin "1" (uuid e5f71def-c5be-4e13-b2c2-44a0641be08a))
     (pin "2" (uuid f9f3f5aa-e6fa-4655-9a88-7ea97a84b807))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R5") (unit 1)
         )
@@ -1662,7 +1662,7 @@
     )
     (pin "1" (uuid 50bcbd66-4277-4d57-8df0-668093fc55f0))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR011") (unit 1)
         )
@@ -1687,7 +1687,7 @@
     )
     (pin "1" (uuid 9f2e0e1a-5098-4fb4-8198-171d35b2efa4))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR016") (unit 1)
         )
@@ -1716,7 +1716,7 @@
     (pin "1" (uuid b59a5427-ec84-419f-ba65-e29fdee7e073))
     (pin "2" (uuid 579d2235-a442-450a-b256-dc6ad34bda8a))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "C1") (unit 1)
         )
@@ -1745,7 +1745,7 @@
     (pin "1" (uuid 822161c5-8134-4190-91a3-005746ce5451))
     (pin "2" (uuid 854f2cc4-5c8e-4ce5-ac04-2dfbdd650454))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R2") (unit 1)
         )
@@ -1770,7 +1770,7 @@
     )
     (pin "1" (uuid 1eada328-4020-4247-a6c3-ff0c93992638))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR08") (unit 1)
         )
@@ -1796,7 +1796,7 @@
     (pin "1" (uuid 519ce408-ef4e-400c-bc2b-eb242ba92578))
     (pin "2" (uuid 74a29578-4ec9-49a9-bdea-a3b565a9cfbf))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "J3") (unit 1)
         )
@@ -1821,7 +1821,7 @@
     )
     (pin "1" (uuid 84c8ae05-ff55-4bc1-b223-d39dae0a054e))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR05") (unit 1)
         )
@@ -1846,7 +1846,7 @@
     )
     (pin "1" (uuid 875d2598-5ee2-4a4c-986d-dd03f03e7a05))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR07") (unit 1)
         )
@@ -1875,7 +1875,7 @@
     (pin "1" (uuid 8cbf9172-fcb3-4ce1-a9f8-c016d70e6e57))
     (pin "2" (uuid 1f343daa-5392-4ce9-9ac2-00171c00c768))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R4") (unit 1)
         )
@@ -1900,7 +1900,7 @@
     )
     (pin "1" (uuid 572bbac0-119e-4e59-ba4f-c0e0ca022b94))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR01") (unit 1)
         )
@@ -1929,7 +1929,7 @@
     (pin "1" (uuid 59018dc3-3a8d-4892-bac4-e9f4bd94f756))
     (pin "2" (uuid c9a3f7a2-12e8-475c-b114-715e41559f3d))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "R6") (unit 1)
         )
@@ -1954,7 +1954,7 @@
     )
     (pin "1" (uuid 0dfd45e9-4c6f-4fdd-ab3b-a10309941876))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR03") (unit 1)
         )
@@ -1979,7 +1979,7 @@
     )
     (pin "1" (uuid 617c4475-d356-4d02-ae1a-7dce87782121))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "#PWR013") (unit 1)
         )
@@ -2008,7 +2008,7 @@
     (pin "1" (uuid eb06bead-4a8d-4f69-8a16-9a22afffcfc0))
     (pin "2" (uuid 64c5e97a-f28a-4ee6-8247-a19f93a3f6f6))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "D1") (unit 1)
         )
@@ -2034,7 +2034,7 @@
     (pin "1" (uuid 602ef5c8-ce7f-4a51-917e-47456717217e))
     (pin "2" (uuid 1c42ee50-f994-4722-a9fd-e3b332d90973))
     (instances
-      (project "breadpow2"
+      (project "breadpow"
         (path "/b35847a9-b310-45c2-a8d2-4e48e37927fa"
           (reference "J2") (unit 1)
         )
